@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: IsThisNew?
+## Notes: Tags item and NPC tooltips as Forever Exclusive or Changed in Forever, so you can tell what the alternate timeline added. Untagged means unknown - never a guess.
+## Author: Sean Shaffer
+## IconTexture: Interface\Icons\INV_Misc_QuestionMark
+## Version: 0.1.0
+## SavedVariables: IsThisNewDB
+## X-License: MIT
+## Category: Interface
+
+Core.lua
+Data.lua
+Tooltip.lua
